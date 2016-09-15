@@ -5,8 +5,6 @@ describe('Split Array function', function() {
 
 });
 
-
-
 describe('Merge Sort', function(){
   it('return sorted array in same order', function(){
      expect(mergeSort([1,2,3,4])).toEqual([1,2,3,4]);
